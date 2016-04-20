@@ -1,5 +1,12 @@
 #AngularJS Moment.js Filter
 
+## Installation
+
+AngularJS Moment.js Filter is available on **bower**:
+```
+bower install --save js-angular-moment-filter
+```
+
 ## Usage
 
 Apply the filter using the default formatting:

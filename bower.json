@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "js-angular-moment-filter": "*",
-    "angular": "^1.*"
+    "angular": "^1.*",
+    "moment": "^2.*"
   }
 }
