@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS Moment Filter</title>
+    <script src="moment.min.js"></script>
+    <script src="angular.min.js"></script>
+    <script src="momentFilter.js"></script>
+    <script src="app.js"></script>
+</head>
+<body ng-app="testApp" ng-controller="testController">
+<div>{{date | moment:'MM/DD/Y'}}</div>
+</body>
+</html>
