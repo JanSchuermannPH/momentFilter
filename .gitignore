@@ -1,3 +1,7 @@
 bower_components
 moment.iml
 .idea
+angular.min.js
+moment.min.js
+index.html
+app.js
